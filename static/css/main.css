@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(10, 24, 36);
+}
+.navbar{
+    text-decoration: none;
+    /* background-color: white; */
+}
+
+.navbar {
+	margin:0 15 15 0 !important;
+	padding: 0 20 20 0  !important;
+}
+
+.mainmovies, .othermovies{
+    margin: auto;
+    height: 50vh;
+    display: block;
+    padding-top: 20px;
+}
+
+.carousel-inner p1{
+    padding-top: 20px;
+    color: whitesmoke;
+    font-size: xx-large;
+    text-align: center;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+}
+.col-md-3 p,h4{
+    text-align: center;
+    display: block;
+}
+.row{
+    padding: 3% 3% 2% 3%;
+}
+
+.card-img{
+    height: 20%;
+    width: auto;
+}
